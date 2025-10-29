@@ -10,34 +10,42 @@ if (storedProducts.length === 0) {
   storedProducts = [
     {
       id: 1,
-      imageurl: "https://media.gettyimages.com/id/185332097/photo/backpack-isolated-on-a-white-background.jpg?s=612x612&w=gi&k=20&c=lNJhEhYvJAGe0BrTe0lEKim_lENIjU8VG7wi9moG1DI=",
-      title: "School Bag",
-      description: "Stylish and durable backpack for everyday use.",
-      price: 999,
+      imageurl: "https://wallpapers.com/images/hd/brown-heart-cookies-x7zrbvs784hz5c1e.jpg",
+      title: "Cookies",
+      description: "Cookies made with love.",
+      price: 550,
       favourite: false
     },
     {
       id: 2,
-      imageurl: "https://static.vecteezy.com/system/resources/thumbnails/069/256/955/small/elegant-black-dress-shoe-for-formal-occasions-free-photo.jpg",
-      title: "Casual Shoes",
-      description: "Comfortable and trendy shoes for all-day wear.",
-      price: 1499,
+      imageurl: "https://cakofy.com/cdn/shop/files/A_luxurious_Ferrero_Rocher_Cake_Gurgaon_Delhi_NCR_Cakofy.png?v=1754377693",
+      title: "Chocolate Cake",
+      description: "Delicious chocolate cake with the goodness of nuts.",
+      price: 1200,
       favourite: false
     },
     {
       id: 3,
-      imageurl: "https://media.istockphoto.com/id/924702024/photo/ground-coffee-in-spoon-coffee-beans.jpg?s=612x612&w=0&k=20&c=dvNz-rl2D8B1DFGDFAHqmWKAOtyMJi9oy2IbOEMIkH0=",
-      title: "Coffee",
-      description: "Creator: kot63 Credit: Getty Images/iStockphoto.",
-      price: 699,
+      imageurl: "https://png.pngtree.com/thumb_back/fh260/background/20240604/pngtree-coffee-beans-and-coffee-grinder-image_15739969.jpg",
+      title: "Coffee Beans",
+      description: "Healthy handpicked coffee beans",
+      price: 850,
       favourite: false
     },
     {
       id: 4,
-      imageurl: "https://media.istockphoto.com/id/924702024/photo/ground-coffee-in-spoon-coffee-beans.jpg?s=612x612&w=0&k=20&c=dvNz-rl2D8B1DFGDFAHqmWKAOtyMJi9oy2IbOEMIkH0=",
-      title: "Coffee2",
-      description: "Creator: kot63 Credit: Getty Images/iStockphoto.",
-      price: 679,
+      imageurl: "https://png.pngtree.com/thumb_back/fh260/background/20230411/pngtree-coffee-beans-coffee-grounds-container-image_2206184.jpg",
+      title: "Ground Coffee",
+      description: "Good Natural coffee",
+      price: 800,
+      favourite: false
+    },
+    {
+      id: 5,
+      imageurl: "https://media.istockphoto.com/id/1366672341/photo/glass-with-ice-and-coffee.jpg?s=612x612&w=0&k=20&c=lR7zj__gNDmO0aXfjV8N9Ti-WnOx2iuNxRRyEDvFCi4=",
+      title: "Cold Coffee",
+      description: "Tasty coffee",
+      price: 250,
       favourite: false
     },
   ];
